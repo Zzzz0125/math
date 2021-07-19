@@ -3,7 +3,7 @@
 ## 目录
 
 - [第一章：](chapter1.md)
-- [第二章：口语](chapter2.md)
+- [第二章：](chapter2.md)
 - [第三章：导数和微分](11.md)
 - [第四章：](chapter4.md)
 - [第五章：](chapter5.md)
